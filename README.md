@@ -1,4 +1,4 @@
-# 💼 Business Card
+  # 💼 Business Card
 
 Este projeto consiste em um cartão de visita digital desenvolvido utilizando **HTML5** e **CSS3**, criado durante meus estudos de desenvolvimento web.
 
@@ -37,6 +37,8 @@ Durante este projeto pratiquei:
 - Efeitos de hover
 - Organização de arquivos
 
-## 👨‍💻 Autor
+## 📚 Curso
 
-**Lucas Oliveira**
+Projeto realizado durante o curso Responsive Web Design do freeCodeCamp.
+
+Desenvolvido por Lucas Oliveira.
