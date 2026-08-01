@@ -2,6 +2,10 @@
 
 Este projeto consiste em um cartão de visita digital desenvolvido utilizando **HTML5** e **CSS3**, criado durante meus estudos de desenvolvimento web.
 
+## 🔗 Deploy
+
+https://luc07o.github.io/business-card-html-css/
+
 ## 📖 Sobre o projeto
 
 O objetivo deste projeto foi praticar conceitos fundamentais de HTML e CSS, como:
@@ -19,11 +23,6 @@ O objetivo deste projeto foi praticar conceitos fundamentais de HTML e CSS, como
 
 - HTML5
 - CSS3
-
-
-## 🔗 Deploy
-
-*(Adicione o link do GitHub Pages depois de publicar.)*
 
 ## 📚 Aprendizados
 
