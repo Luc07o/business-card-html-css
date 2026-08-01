@@ -1,4 +1,4 @@
-  # 💼 Business Card
+  # 💼 Cartão de Visita
 
 Este projeto consiste em um cartão de visita digital desenvolvido utilizando **HTML5** e **CSS3**, criado durante meus estudos de desenvolvimento web.
 
