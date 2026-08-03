@@ -54,6 +54,8 @@ p {
     text-decoration: none;
     font-size: 23px;
     padding: 0 auto;
+    transition: 0.3s;
+    display: inline-block;
 }
 
 a:not(.portfolio-link) {
